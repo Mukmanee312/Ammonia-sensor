@@ -3,8 +3,7 @@
     <br>
    <h3 align="center">ระบบตรวจวัดแอมโมเนียในแปลงนา แสดงผลผ่านแดชบอร์ด เรียลไทม์ </h3>
     <img src="https://github.com/Mukmanee312/image/blob/main/messageImage_1770716491637.jpg" >
-    <img src="https://github.com/Mukmanee312/image/blob/main/grafana" >
-    <img src="https://raw.githubusercontent.com/Mukmanee312/image/refs/heads/main/Image.jfif" >
-    <img src="https://raw.githubusercontent.com/Mukmanee312/image/refs/heads/main/Image%20(3).jfif" >
-    <img src="https://raw.githubusercontent.com/Mukmanee312/image/refs/heads/main/Image%20(2).jfif" >
+    <img src="https://github.com/Mukmanee312/image/blob/main/148335.jpg" >
+    <img src="https://github.com/Mukmanee312/image/blob/main/148336.jpg" >
+   
 </p>
